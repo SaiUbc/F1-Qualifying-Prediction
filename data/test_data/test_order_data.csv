@@ -1,0 +1,1120 @@
+year,circuit_name,driver_code,quali_classification_time_ms,quali_position
+2022,Bahrain International Circuit,LEC,90558.0,1
+2022,Bahrain International Circuit,VER,90681.0,2
+2022,Bahrain International Circuit,SAI,90687.0,3
+2022,Bahrain International Circuit,PER,90921.0,4
+2022,Bahrain International Circuit,HAM,91238.0,5
+2022,Bahrain International Circuit,BOT,91560.0,6
+2022,Bahrain International Circuit,MAG,91808.0,8
+2022,Bahrain International Circuit,ALO,92195.0,11
+2022,Bahrain International Circuit,RUS,92216.0,12
+2022,Bahrain International Circuit,GAS,92338.0,13
+2022,Bahrain International Circuit,OCO,91782.0,7
+2022,Bahrain International Circuit,MSC,91998.0,9
+2022,Bahrain International Circuit,NOR,92008.0,10
+2022,Bahrain International Circuit,ALB,92664.0,14
+2022,Bahrain International Circuit,ZHO,93543.0,19
+2022,Bahrain International Circuit,TSU,92750.0,15
+2022,Bahrain International Circuit,HUL,92777.0,16
+2022,Bahrain International Circuit,RIC,92945.0,17
+2022,Bahrain International Circuit,STR,93032.0,18
+2022,Bahrain International Circuit,LAT,93634.0,20
+2022,Jeddah Corniche Circuit,ZHO,89819.0,13
+2022,Jeddah Corniche Circuit,RIC,89773.0,12
+2022,Jeddah Corniche Circuit,NOR,89651.0,11
+2022,Jeddah Corniche Circuit,MAG,89588.0,10
+2022,Jeddah Corniche Circuit,GAS,89254.0,9
+2022,Jeddah Corniche Circuit,BOT,89183.0,8
+2022,Jeddah Corniche Circuit,ALO,89147.0,7
+2022,Jeddah Corniche Circuit,RUS,89104.0,6
+2022,Jeddah Corniche Circuit,OCO,89068.0,5
+2022,Jeddah Corniche Circuit,VER,88461.0,4
+2022,Jeddah Corniche Circuit,SAI,88402.0,3
+2022,Jeddah Corniche Circuit,LEC,88225.0,2
+2022,Jeddah Corniche Circuit,PER,88200.0,1
+2022,Jeddah Corniche Circuit,MSC,89920.0,14
+2022,Jeddah Corniche Circuit,STR,91009.0,18
+2022,Jeddah Corniche Circuit,HAM,90343.0,15
+2022,Jeddah Corniche Circuit,ALB,90492.0,16
+2022,Jeddah Corniche Circuit,HUL,90543.0,17
+2022,Jeddah Corniche Circuit,LAT,91817.0,19
+2022,Jeddah Corniche Circuit,TSU,inf,20
+2022,Albert Park Grand Prix Circuit,LEC,77868.0,1
+2022,Albert Park Grand Prix Circuit,VER,78154.0,2
+2022,Albert Park Grand Prix Circuit,PER,78240.0,3
+2022,Albert Park Grand Prix Circuit,NOR,78703.0,4
+2022,Albert Park Grand Prix Circuit,HAM,78825.0,6
+2022,Albert Park Grand Prix Circuit,RUS,78933.0,7
+2022,Albert Park Grand Prix Circuit,RIC,79032.0,8
+2022,Albert Park Grand Prix Circuit,OCO,79061.0,9
+2022,Albert Park Grand Prix Circuit,SAI,79408.0,11
+2022,Albert Park Grand Prix Circuit,ALO,78815.0,5
+2022,Albert Park Grand Prix Circuit,GAS,79226.0,10
+2022,Albert Park Grand Prix Circuit,BOT,79410.0,12
+2022,Albert Park Grand Prix Circuit,TSU,79424.0,13
+2022,Albert Park Grand Prix Circuit,ZHO,80155.0,15
+2022,Albert Park Grand Prix Circuit,MSC,80465.0,17
+2022,Albert Park Grand Prix Circuit,ALB,80135.0,14
+2022,Albert Park Grand Prix Circuit,MAG,80254.0,16
+2022,Albert Park Grand Prix Circuit,VET,81149.0,18
+2022,Albert Park Grand Prix Circuit,LAT,81372.0,19
+2022,Albert Park Grand Prix Circuit,STR,inf,20
+2022,Autodromo Enzo e Dino Ferrari,VER,87999.0,10
+2022,Autodromo Enzo e Dino Ferrari,LEC,88778.0,12
+2022,Autodromo Enzo e Dino Ferrari,NOR,89131.0,13
+2022,Autodromo Enzo e Dino Ferrari,MAG,89164.0,14
+2022,Autodromo Enzo e Dino Ferrari,ALO,89202.0,15
+2022,Autodromo Enzo e Dino Ferrari,RIC,89742.0,16
+2022,Autodromo Enzo e Dino Ferrari,PER,89808.0,17
+2022,Autodromo Enzo e Dino Ferrari,BOT,90439.0,18
+2022,Autodromo Enzo e Dino Ferrari,VET,91062.0,19
+2022,Autodromo Enzo e Dino Ferrari,SAI,78990.0,1
+2022,Autodromo Enzo e Dino Ferrari,RUS,80757.0,4
+2022,Autodromo Enzo e Dino Ferrari,MSC,80916.0,5
+2022,Autodromo Enzo e Dino Ferrari,HAM,81138.0,6
+2022,Autodromo Enzo e Dino Ferrari,ZHO,81434.0,7
+2022,Autodromo Enzo e Dino Ferrari,STR,88119.0,11
+2022,Autodromo Enzo e Dino Ferrari,TSU,80474.0,2
+2022,Autodromo Enzo e Dino Ferrari,GAS,80732.0,3
+2022,Autodromo Enzo e Dino Ferrari,LAT,81971.0,8
+2022,Autodromo Enzo e Dino Ferrari,OCO,82338.0,9
+2022,Autodromo Enzo e Dino Ferrari,ALB,inf,20
+2022,Miami International Autodrome,LEC,88796.0,1
+2022,Miami International Autodrome,SAI,88986.0,2
+2022,Miami International Autodrome,VER,88991.0,3
+2022,Miami International Autodrome,PER,89036.0,4
+2022,Miami International Autodrome,BOT,89475.0,5
+2022,Miami International Autodrome,HAM,89625.0,6
+2022,Miami International Autodrome,GAS,89690.0,7
+2022,Miami International Autodrome,NOR,89750.0,8
+2022,Miami International Autodrome,TSU,89932.0,9
+2022,Miami International Autodrome,STR,90676.0,15
+2022,Miami International Autodrome,ALO,90160.0,10
+2022,Miami International Autodrome,RUS,90173.0,11
+2022,Miami International Autodrome,VET,90214.0,12
+2022,Miami International Autodrome,RIC,90310.0,13
+2022,Miami International Autodrome,MSC,90423.0,14
+2022,Miami International Autodrome,MAG,90975.0,16
+2022,Miami International Autodrome,ZHO,91020.0,17
+2022,Miami International Autodrome,ALB,91266.0,18
+2022,Miami International Autodrome,LAT,91325.0,19
+2022,Miami International Autodrome,OCO,inf,20
+2022,Circuit de Barcelona-Catalunya,LEC,78750.0,1
+2022,Circuit de Barcelona-Catalunya,VER,79073.0,2
+2022,Circuit de Barcelona-Catalunya,SAI,79166.0,3
+2022,Circuit de Barcelona-Catalunya,RUS,79393.0,4
+2022,Circuit de Barcelona-Catalunya,PER,79420.0,5
+2022,Circuit de Barcelona-Catalunya,HAM,79512.0,6
+2022,Circuit de Barcelona-Catalunya,BOT,79608.0,7
+2022,Circuit de Barcelona-Catalunya,MAG,79682.0,8
+2022,Circuit de Barcelona-Catalunya,RIC,80297.0,9
+2022,Circuit de Barcelona-Catalunya,MSC,80368.0,10
+2022,Circuit de Barcelona-Catalunya,NOR,80471.0,11
+2022,Circuit de Barcelona-Catalunya,OCO,80638.0,12
+2022,Circuit de Barcelona-Catalunya,TSU,80639.0,13
+2022,Circuit de Barcelona-Catalunya,GAS,80861.0,14
+2022,Circuit de Barcelona-Catalunya,ZHO,81094.0,17
+2022,Circuit de Barcelona-Catalunya,VET,80954.0,15
+2022,Circuit de Barcelona-Catalunya,ALO,81043.0,16
+2022,Circuit de Barcelona-Catalunya,STR,81418.0,18
+2022,Circuit de Barcelona-Catalunya,ALB,81645.0,19
+2022,Circuit de Barcelona-Catalunya,LAT,81915.0,20
+2022,Circuit de Monaco,LEC,71376.0,1
+2022,Circuit de Monaco,SAI,71601.0,2
+2022,Circuit de Monaco,PER,71629.0,3
+2022,Circuit de Monaco,VER,71666.0,4
+2022,Circuit de Monaco,NOR,71849.0,5
+2022,Circuit de Monaco,RUS,72112.0,6
+2022,Circuit de Monaco,ALO,72247.0,7
+2022,Circuit de Monaco,HAM,72560.0,8
+2022,Circuit de Monaco,VET,72732.0,9
+2022,Circuit de Monaco,OCO,73047.0,14
+2022,Circuit de Monaco,TSU,72797.0,10
+2022,Circuit de Monaco,BOT,72909.0,11
+2022,Circuit de Monaco,MAG,72921.0,12
+2022,Circuit de Monaco,RIC,72964.0,13
+2022,Circuit de Monaco,MSC,73081.0,15
+2022,Circuit de Monaco,ALB,73611.0,16
+2022,Circuit de Monaco,GAS,73660.0,17
+2022,Circuit de Monaco,STR,73678.0,18
+2022,Circuit de Monaco,LAT,74403.0,19
+2022,Circuit de Monaco,ZHO,75606.0,20
+2022,Baku City Circuit,LEC,101359.0,1
+2022,Baku City Circuit,PER,101641.0,2
+2022,Baku City Circuit,VER,101706.0,3
+2022,Baku City Circuit,SAI,101814.0,4
+2022,Baku City Circuit,RUS,102712.0,5
+2022,Baku City Circuit,GAS,102845.0,6
+2022,Baku City Circuit,HAM,102924.0,7
+2022,Baku City Circuit,TSU,103056.0,8
+2022,Baku City Circuit,VET,103091.0,9
+2022,Baku City Circuit,ALO,103173.0,10
+2022,Baku City Circuit,NOR,103398.0,11
+2022,Baku City Circuit,RIC,103574.0,12
+2022,Baku City Circuit,OCO,103585.0,13
+2022,Baku City Circuit,ZHO,103790.0,14
+2022,Baku City Circuit,BOT,104444.0,15
+2022,Baku City Circuit,MAG,104643.0,16
+2022,Baku City Circuit,ALB,104719.0,17
+2022,Baku City Circuit,LAT,105367.0,18
+2022,Baku City Circuit,STR,105371.0,19
+2022,Baku City Circuit,MSC,105775.0,20
+2022,Circuit Gilles Villeneuve,VER,81299.0,1
+2022,Circuit Gilles Villeneuve,ALO,81944.0,2
+2022,Circuit Gilles Villeneuve,SAI,82096.0,3
+2022,Circuit Gilles Villeneuve,HAM,82891.0,4
+2022,Circuit Gilles Villeneuve,MAG,82960.0,5
+2022,Circuit Gilles Villeneuve,MSC,83356.0,6
+2022,Circuit Gilles Villeneuve,OCO,83529.0,7
+2022,Circuit Gilles Villeneuve,RUS,83557.0,8
+2022,Circuit Gilles Villeneuve,RIC,83749.0,9
+2022,Circuit Gilles Villeneuve,ZHO,84030.0,10
+2022,Circuit Gilles Villeneuve,BOT,86788.0,11
+2022,Circuit Gilles Villeneuve,ALB,86858.0,12
+2022,Circuit Gilles Villeneuve,PER,93127.0,14
+2022,Circuit Gilles Villeneuve,NOR,94066.0,15
+2022,Circuit Gilles Villeneuve,LEC,93008.0,13
+2022,Circuit Gilles Villeneuve,GAS,94492.0,16
+2022,Circuit Gilles Villeneuve,VET,94512.0,17
+2022,Circuit Gilles Villeneuve,STR,95532.0,18
+2022,Circuit Gilles Villeneuve,LAT,95660.0,19
+2022,Circuit Gilles Villeneuve,TSU,96575.0,20
+2022,Silverstone Circuit,SAI,100983.0,1
+2022,Silverstone Circuit,VER,101055.0,2
+2022,Silverstone Circuit,LEC,101298.0,3
+2022,Silverstone Circuit,PER,101616.0,4
+2022,Silverstone Circuit,HAM,101995.0,5
+2022,Silverstone Circuit,NOR,102084.0,7
+2022,Silverstone Circuit,ALO,102116.0,8
+2022,Silverstone Circuit,RUS,102161.0,10
+2022,Silverstone Circuit,ZHO,102719.0,13
+2022,Silverstone Circuit,LAT,123095.0,20
+2022,Silverstone Circuit,GAS,103702.0,15
+2022,Silverstone Circuit,BOT,104232.0,16
+2022,Silverstone Circuit,TSU,104311.0,17
+2022,Silverstone Circuit,RIC,104355.0,18
+2022,Silverstone Circuit,OCO,105190.0,19
+2022,Silverstone Circuit,ALB,102078.0,6
+2022,Silverstone Circuit,MAG,102159.0,9
+2022,Silverstone Circuit,VET,102666.0,11
+2022,Silverstone Circuit,MSC,102708.0,12
+2022,Silverstone Circuit,STR,103430.0,14
+2022,Red Bull Ring,VER,64983.0,1
+2022,Red Bull Ring,LEC,65013.0,2
+2022,Red Bull Ring,SAI,65066.0,3
+2022,Red Bull Ring,RUS,65431.0,4
+2022,Red Bull Ring,OCO,65726.0,5
+2022,Red Bull Ring,MAG,65879.0,6
+2022,Red Bull Ring,MSC,66011.0,7
+2022,Red Bull Ring,ALO,66103.0,8
+2022,Red Bull Ring,HAM,73151.0,19
+2022,Red Bull Ring,GAS,66160.0,9
+2022,Red Bull Ring,ALB,66230.0,10
+2022,Red Bull Ring,BOT,66319.0,11
+2022,Red Bull Ring,PER,66458.0,12
+2022,Red Bull Ring,TSU,66851.0,15
+2022,Red Bull Ring,NOR,85847.0,20
+2022,Red Bull Ring,RIC,66613.0,13
+2022,Red Bull Ring,STR,66847.0,14
+2022,Red Bull Ring,ZHO,66901.0,16
+2022,Red Bull Ring,LAT,67003.0,17
+2022,Red Bull Ring,VET,67083.0,18
+2022,Circuit Paul Ricard,LEC,90872.0,1
+2022,Circuit Paul Ricard,VER,91176.0,3
+2022,Circuit Paul Ricard,PER,91335.0,4
+2022,Circuit Paul Ricard,HAM,91765.0,5
+2022,Circuit Paul Ricard,NOR,92032.0,6
+2022,Circuit Paul Ricard,RUS,92131.0,7
+2022,Circuit Paul Ricard,ALO,92552.0,8
+2022,Circuit Paul Ricard,TSU,92780.0,10
+2022,Circuit Paul Ricard,SAI,91081.0,2
+2022,Circuit Paul Ricard,MAG,92649.0,9
+2022,Circuit Paul Ricard,RIC,92922.0,11
+2022,Circuit Paul Ricard,OCO,93048.0,12
+2022,Circuit Paul Ricard,BOT,93052.0,13
+2022,Circuit Paul Ricard,VET,93276.0,14
+2022,Circuit Paul Ricard,ALB,93307.0,15
+2022,Circuit Paul Ricard,GAS,93439.0,16
+2022,Circuit Paul Ricard,STR,93439.0,16
+2022,Circuit Paul Ricard,ZHO,93674.0,18
+2022,Circuit Paul Ricard,MSC,93701.0,19
+2022,Circuit Paul Ricard,LAT,93794.0,20
+2022,Hungaroring,RUS,77377.0,1
+2022,Hungaroring,SAI,77421.0,2
+2022,Hungaroring,LEC,77567.0,3
+2022,Hungaroring,NOR,77769.0,4
+2022,Hungaroring,OCO,78018.0,5
+2022,Hungaroring,ALO,78078.0,6
+2022,Hungaroring,HAM,78142.0,7
+2022,Hungaroring,BOT,78157.0,8
+2022,Hungaroring,RIC,78379.0,9
+2022,Hungaroring,VER,78823.0,12
+2022,Hungaroring,PER,78516.0,10
+2022,Hungaroring,ZHO,78573.0,11
+2022,Hungaroring,MAG,78825.0,13
+2022,Hungaroring,STR,79137.0,14
+2022,Hungaroring,MSC,79202.0,15
+2022,Hungaroring,TSU,79240.0,16
+2022,Hungaroring,ALB,79256.0,17
+2022,Hungaroring,VET,79273.0,18
+2022,Hungaroring,GAS,79527.0,19
+2022,Hungaroring,LAT,79570.0,20
+2022,Circuit de Spa-Francorchamps,VER,103665.0,1
+2022,Circuit de Spa-Francorchamps,SAI,104297.0,2
+2022,Circuit de Spa-Francorchamps,PER,104462.0,3
+2022,Circuit de Spa-Francorchamps,LEC,104553.0,4
+2022,Circuit de Spa-Francorchamps,OCO,105180.0,5
+2022,Circuit de Spa-Francorchamps,ALO,105368.0,6
+2022,Circuit de Spa-Francorchamps,HAM,105503.0,7
+2022,Circuit de Spa-Francorchamps,RUS,105776.0,9
+2022,Circuit de Spa-Francorchamps,ALB,105837.0,11
+2022,Circuit de Spa-Francorchamps,NOR,106178.0,13
+2022,Circuit de Spa-Francorchamps,RIC,105767.0,8
+2022,Circuit de Spa-Francorchamps,GAS,105827.0,10
+2022,Circuit de Spa-Francorchamps,ZHO,106085.0,12
+2022,Circuit de Spa-Francorchamps,STR,106611.0,17
+2022,Circuit de Spa-Francorchamps,MSC,107718.0,19
+2022,Circuit de Spa-Francorchamps,VET,106344.0,14
+2022,Circuit de Spa-Francorchamps,LAT,106401.0,15
+2022,Circuit de Spa-Francorchamps,MAG,106557.0,16
+2022,Circuit de Spa-Francorchamps,TSU,106692.0,18
+2022,Circuit de Spa-Francorchamps,BOT,107866.0,20
+2022,Circuit Park Zandvoort,VER,70342.0,1
+2022,Circuit Park Zandvoort,LEC,70363.0,2
+2022,Circuit Park Zandvoort,SAI,70434.0,3
+2022,Circuit Park Zandvoort,HAM,70648.0,4
+2022,Circuit Park Zandvoort,PER,71077.0,5
+2022,Circuit Park Zandvoort,RUS,71147.0,6
+2022,Circuit Park Zandvoort,NOR,71174.0,7
+2022,Circuit Park Zandvoort,MSC,71442.0,9
+2022,Circuit Park Zandvoort,TSU,72556.0,19
+2022,Circuit Park Zandvoort,STR,71416.0,8
+2022,Circuit Park Zandvoort,GAS,71512.0,10
+2022,Circuit Park Zandvoort,OCO,71605.0,11
+2022,Circuit Park Zandvoort,ALO,71613.0,12
+2022,Circuit Park Zandvoort,ZHO,71704.0,13
+2022,Circuit Park Zandvoort,ALB,71802.0,14
+2022,Circuit Park Zandvoort,BOT,71961.0,15
+2022,Circuit Park Zandvoort,RIC,72081.0,16
+2022,Circuit Park Zandvoort,MAG,72319.0,17
+2022,Circuit Park Zandvoort,VET,72391.0,18
+2022,Circuit Park Zandvoort,LAT,73353.0,20
+2022,Autodromo Nazionale di Monza,LEC,80161.0,1
+2022,Autodromo Nazionale di Monza,VER,80306.0,2
+2022,Autodromo Nazionale di Monza,SAI,80429.0,3
+2022,Autodromo Nazionale di Monza,PER,81206.0,4
+2022,Autodromo Nazionale di Monza,HAM,81524.0,5
+2022,Autodromo Nazionale di Monza,RUS,81542.0,6
+2022,Autodromo Nazionale di Monza,NOR,81584.0,7
+2022,Autodromo Nazionale di Monza,RIC,81925.0,9
+2022,Autodromo Nazionale di Monza,GAS,82648.0,17
+2022,Autodromo Nazionale di Monza,ALO,81861.0,8
+2022,Autodromo Nazionale di Monza,OCO,82130.0,11
+2022,Autodromo Nazionale di Monza,BOT,82235.0,12
+2022,Autodromo Nazionale di Monza,DEV,82471.0,13
+2022,Autodromo Nazionale di Monza,ZHO,82577.0,14
+2022,Autodromo Nazionale di Monza,TSU,82020.0,10
+2022,Autodromo Nazionale di Monza,LAT,82587.0,15
+2022,Autodromo Nazionale di Monza,VET,82636.0,16
+2022,Autodromo Nazionale di Monza,STR,82748.0,18
+2022,Autodromo Nazionale di Monza,MAG,82908.0,19
+2022,Autodromo Nazionale di Monza,MSC,83005.0,20
+2022,Marina Bay Street Circuit,LEC,109412.0,1
+2022,Marina Bay Street Circuit,PER,109434.0,2
+2022,Marina Bay Street Circuit,HAM,109466.0,3
+2022,Marina Bay Street Circuit,SAI,109583.0,4
+2022,Marina Bay Street Circuit,ALO,109966.0,5
+2022,Marina Bay Street Circuit,NOR,110584.0,6
+2022,Marina Bay Street Circuit,GAS,111211.0,7
+2022,Marina Bay Street Circuit,VER,111395.0,8
+2022,Marina Bay Street Circuit,MAG,111573.0,9
+2022,Marina Bay Street Circuit,TSU,111983.0,10
+2022,Marina Bay Street Circuit,RUS,114012.0,11
+2022,Marina Bay Street Circuit,STR,114211.0,12
+2022,Marina Bay Street Circuit,MSC,114370.0,13
+2022,Marina Bay Street Circuit,VET,114380.0,14
+2022,Marina Bay Street Circuit,ZHO,115518.0,15
+2022,Marina Bay Street Circuit,BOT,116083.0,16
+2022,Marina Bay Street Circuit,RIC,116226.0,17
+2022,Marina Bay Street Circuit,OCO,116337.0,18
+2022,Marina Bay Street Circuit,ALB,116985.0,19
+2022,Marina Bay Street Circuit,LAT,117532.0,20
+2022,Suzuka Circuit,VER,89304.0,1
+2022,Suzuka Circuit,LEC,89314.0,2
+2022,Suzuka Circuit,SAI,89361.0,3
+2022,Suzuka Circuit,PER,89709.0,4
+2022,Suzuka Circuit,OCO,90165.0,5
+2022,Suzuka Circuit,HAM,90261.0,6
+2022,Suzuka Circuit,ALO,90322.0,7
+2022,Suzuka Circuit,RUS,90389.0,8
+2022,Suzuka Circuit,VET,90554.0,9
+2022,Suzuka Circuit,NOR,91003.0,14
+2022,Suzuka Circuit,RIC,90659.0,10
+2022,Suzuka Circuit,BOT,90709.0,11
+2022,Suzuka Circuit,TSU,90808.0,12
+2022,Suzuka Circuit,ZHO,90953.0,13
+2022,Suzuka Circuit,MSC,91439.0,19
+2022,Suzuka Circuit,ALB,91311.0,15
+2022,Suzuka Circuit,GAS,91322.0,16
+2022,Suzuka Circuit,MAG,91352.0,17
+2022,Suzuka Circuit,STR,91419.0,18
+2022,Suzuka Circuit,LAT,91511.0,20
+2022,Circuit of the Americas,SAI,94356.0,1
+2022,Circuit of the Americas,LEC,94421.0,2
+2022,Circuit of the Americas,VER,94448.0,3
+2022,Circuit of the Americas,PER,94645.0,4
+2022,Circuit of the Americas,HAM,94947.0,5
+2022,Circuit of the Americas,RUS,94988.0,6
+2022,Circuit of the Americas,STR,95598.0,7
+2022,Circuit of the Americas,NOR,95690.0,8
+2022,Circuit of the Americas,ALO,95876.0,9
+2022,Circuit of the Americas,BOT,96319.0,10
+2022,Circuit of the Americas,ALB,96368.0,11
+2022,Circuit of the Americas,VET,96398.0,12
+2022,Circuit of the Americas,GAS,96740.0,13
+2022,Circuit of the Americas,ZHO,96970.0,15
+2022,Circuit of the Americas,TSU,97147.0,19
+2022,Circuit of the Americas,MAG,96949.0,14
+2022,Circuit of the Americas,RIC,97046.0,16
+2022,Circuit of the Americas,OCO,97068.0,17
+2022,Circuit of the Americas,MSC,97111.0,18
+2022,Circuit of the Americas,LAT,97244.0,20
+2022,Autódromo Hermanos Rodríguez,VER,77775.0,1
+2022,Autódromo Hermanos Rodríguez,RUS,78079.0,2
+2022,Autódromo Hermanos Rodríguez,HAM,78084.0,3
+2022,Autódromo Hermanos Rodríguez,PER,78128.0,4
+2022,Autódromo Hermanos Rodríguez,SAI,78351.0,5
+2022,Autódromo Hermanos Rodríguez,BOT,78401.0,6
+2022,Autódromo Hermanos Rodríguez,LEC,78555.0,7
+2022,Autódromo Hermanos Rodríguez,NOR,78721.0,8
+2022,Autódromo Hermanos Rodríguez,ALO,78939.0,9
+2022,Autódromo Hermanos Rodríguez,OCO,79010.0,10
+2022,Autódromo Hermanos Rodríguez,RIC,79325.0,11
+2022,Autódromo Hermanos Rodríguez,ZHO,79476.0,12
+2022,Autódromo Hermanos Rodríguez,TSU,79589.0,13
+2022,Autódromo Hermanos Rodríguez,GAS,79672.0,14
+2022,Autódromo Hermanos Rodríguez,MAG,79833.0,15
+2022,Autódromo Hermanos Rodríguez,MSC,80419.0,16
+2022,Autódromo Hermanos Rodríguez,VET,80419.0,16
+2022,Autódromo Hermanos Rodríguez,STR,80520.0,18
+2022,Autódromo Hermanos Rodríguez,ALB,80859.0,19
+2022,Autódromo Hermanos Rodríguez,LAT,81167.0,20
+2022,Autódromo José Carlos Pace,MAG,71674.0,3
+2022,Autódromo José Carlos Pace,VER,71877.0,6
+2022,Autódromo José Carlos Pace,RUS,72059.0,7
+2022,Autódromo José Carlos Pace,NOR,72263.0,10
+2022,Autódromo José Carlos Pace,SAI,72357.0,11
+2022,Autódromo José Carlos Pace,OCO,72425.0,12
+2022,Autódromo José Carlos Pace,ALO,72504.0,13
+2022,Autódromo José Carlos Pace,HAM,72611.0,14
+2022,Autódromo José Carlos Pace,PER,75601.0,18
+2022,Autódromo José Carlos Pace,LEC,70950.0,1
+2022,Autódromo José Carlos Pace,ALB,71631.0,2
+2022,Autódromo José Carlos Pace,GAS,71675.0,4
+2022,Autódromo José Carlos Pace,VET,71678.0,5
+2022,Autódromo José Carlos Pace,RIC,72140.0,8
+2022,Autódromo José Carlos Pace,LAT,75095.0,15
+2022,Autódromo José Carlos Pace,ZHO,75197.0,16
+2022,Autódromo José Carlos Pace,BOT,75486.0,17
+2022,Autódromo José Carlos Pace,TSU,76264.0,19
+2022,Autódromo José Carlos Pace,MSC,76361.0,20
+2022,Autódromo José Carlos Pace,STR,72210.0,9
+2022,Yas Marina Circuit,VER,83824.0,1
+2022,Yas Marina Circuit,PER,84052.0,2
+2022,Yas Marina Circuit,LEC,84092.0,3
+2022,Yas Marina Circuit,SAI,84242.0,4
+2022,Yas Marina Circuit,HAM,84508.0,5
+2022,Yas Marina Circuit,RUS,84511.0,6
+2022,Yas Marina Circuit,NOR,84769.0,7
+2022,Yas Marina Circuit,OCO,84830.0,8
+2022,Yas Marina Circuit,VET,84961.0,9
+2022,Yas Marina Circuit,RIC,85045.0,10
+2022,Yas Marina Circuit,ALO,85096.0,11
+2022,Yas Marina Circuit,TSU,85219.0,12
+2022,Yas Marina Circuit,MSC,85225.0,13
+2022,Yas Marina Circuit,STR,85359.0,14
+2022,Yas Marina Circuit,ZHO,85408.0,15
+2022,Yas Marina Circuit,MAG,85834.0,16
+2022,Yas Marina Circuit,GAS,85859.0,17
+2022,Yas Marina Circuit,BOT,85892.0,18
+2022,Yas Marina Circuit,ALB,86028.0,19
+2022,Yas Marina Circuit,LAT,86054.0,20
+2023,Bahrain International Circuit,VER,89708.0,1
+2023,Bahrain International Circuit,PER,89846.0,2
+2023,Bahrain International Circuit,LEC,90000.0,3
+2023,Bahrain International Circuit,SAI,90154.0,4
+2023,Bahrain International Circuit,ALO,90336.0,5
+2023,Bahrain International Circuit,RUS,90340.0,6
+2023,Bahrain International Circuit,HAM,90384.0,7
+2023,Bahrain International Circuit,STR,90836.0,9
+2023,Bahrain International Circuit,OCO,90984.0,10
+2023,Bahrain International Circuit,HUL,90809.0,8
+2023,Bahrain International Circuit,NOR,91381.0,11
+2023,Bahrain International Circuit,BOT,91443.0,12
+2023,Bahrain International Circuit,ZHO,91473.0,14
+2023,Bahrain International Circuit,TSU,92510.0,20
+2023,Bahrain International Circuit,ALB,91461.0,13
+2023,Bahrain International Circuit,SAR,91652.0,15
+2023,Bahrain International Circuit,MAG,91892.0,16
+2023,Bahrain International Circuit,PIA,92101.0,17
+2023,Bahrain International Circuit,DEV,92121.0,18
+2023,Bahrain International Circuit,GAS,92181.0,19
+2023,Jeddah Corniche Circuit,PER,88265.0,1
+2023,Jeddah Corniche Circuit,LEC,88420.0,2
+2023,Jeddah Corniche Circuit,ALO,88730.0,3
+2023,Jeddah Corniche Circuit,RUS,88857.0,4
+2023,Jeddah Corniche Circuit,SAI,88931.0,5
+2023,Jeddah Corniche Circuit,STR,88945.0,6
+2023,Jeddah Corniche Circuit,OCO,89078.0,7
+2023,Jeddah Corniche Circuit,HAM,89223.0,8
+2023,Jeddah Corniche Circuit,PIA,89243.0,9
+2023,Jeddah Corniche Circuit,GAS,89357.0,10
+2023,Jeddah Corniche Circuit,HUL,89451.0,11
+2023,Jeddah Corniche Circuit,ZHO,89461.0,12
+2023,Jeddah Corniche Circuit,MAG,89634.0,13
+2023,Jeddah Corniche Circuit,BOT,89668.0,14
+2023,Jeddah Corniche Circuit,VER,109953.0,19
+2023,Jeddah Corniche Circuit,TSU,89939.0,15
+2023,Jeddah Corniche Circuit,ALB,89994.0,16
+2023,Jeddah Corniche Circuit,DEV,90244.0,17
+2023,Jeddah Corniche Circuit,NOR,90447.0,18
+2023,Jeddah Corniche Circuit,SAR,128509.0,20
+2023,Albert Park Grand Prix Circuit,VER,76732.0,1
+2023,Albert Park Grand Prix Circuit,RUS,76968.0,2
+2023,Albert Park Grand Prix Circuit,HAM,77104.0,3
+2023,Albert Park Grand Prix Circuit,ALO,77139.0,4
+2023,Albert Park Grand Prix Circuit,SAI,77270.0,5
+2023,Albert Park Grand Prix Circuit,STR,77308.0,6
+2023,Albert Park Grand Prix Circuit,LEC,77369.0,7
+2023,Albert Park Grand Prix Circuit,ALB,77609.0,8
+2023,Albert Park Grand Prix Circuit,GAS,77675.0,9
+2023,Albert Park Grand Prix Circuit,HUL,77735.0,10
+2023,Albert Park Grand Prix Circuit,OCO,77768.0,11
+2023,Albert Park Grand Prix Circuit,TSU,78099.0,12
+2023,Albert Park Grand Prix Circuit,NOR,78119.0,13
+2023,Albert Park Grand Prix Circuit,MAG,78129.0,14
+2023,Albert Park Grand Prix Circuit,DEV,78335.0,15
+2023,Albert Park Grand Prix Circuit,PIA,78517.0,16
+2023,Albert Park Grand Prix Circuit,ZHO,78540.0,17
+2023,Albert Park Grand Prix Circuit,SAR,78557.0,18
+2023,Albert Park Grand Prix Circuit,BOT,78714.0,19
+2023,Albert Park Grand Prix Circuit,PER,inf,20
+2023,Baku City Circuit,LEC,100203.0,1
+2023,Baku City Circuit,VER,100391.0,2
+2023,Baku City Circuit,PER,100495.0,3
+2023,Baku City Circuit,SAI,101016.0,4
+2023,Baku City Circuit,HAM,101177.0,5
+2023,Baku City Circuit,ALO,101253.0,6
+2023,Baku City Circuit,NOR,101281.0,7
+2023,Baku City Circuit,TSU,101581.0,8
+2023,Baku City Circuit,STR,101611.0,9
+2023,Baku City Circuit,PIA,101611.0,9
+2023,Baku City Circuit,RUS,101654.0,11
+2023,Baku City Circuit,OCO,101798.0,12
+2023,Baku City Circuit,ALB,101818.0,13
+2023,Baku City Circuit,BOT,102259.0,14
+2023,Baku City Circuit,SAR,102395.0,15
+2023,Baku City Circuit,ZHO,102642.0,16
+2023,Baku City Circuit,HUL,102755.0,17
+2023,Baku City Circuit,MAG,103417.0,18
+2023,Baku City Circuit,GAS,104853.0,19
+2023,Baku City Circuit,DEV,inf,20
+2023,Miami International Autodrome,PER,86841.0,2
+2023,Miami International Autodrome,ALO,87202.0,3
+2023,Miami International Autodrome,SAI,87349.0,4
+2023,Miami International Autodrome,MAG,87767.0,6
+2023,Miami International Autodrome,GAS,87786.0,7
+2023,Miami International Autodrome,RUS,87804.0,9
+2023,Miami International Autodrome,LEC,87861.0,10
+2023,Miami International Autodrome,OCO,87935.0,12
+2023,Miami International Autodrome,VER,86814.0,1
+2023,Miami International Autodrome,BOT,87564.0,5
+2023,Miami International Autodrome,ALB,87795.0,8
+2023,Miami International Autodrome,HUL,87903.0,11
+2023,Miami International Autodrome,HAM,87975.0,13
+2023,Miami International Autodrome,ZHO,88091.0,14
+2023,Miami International Autodrome,DEV,88395.0,16
+2023,Miami International Autodrome,NOR,88394.0,15
+2023,Miami International Autodrome,TSU,88429.0,17
+2023,Miami International Autodrome,STR,88476.0,18
+2023,Miami International Autodrome,PIA,88484.0,19
+2023,Miami International Autodrome,SAR,88577.0,20
+2023,Circuit de Monaco,VER,71365.0,1
+2023,Circuit de Monaco,ALO,71449.0,2
+2023,Circuit de Monaco,LEC,71471.0,3
+2023,Circuit de Monaco,OCO,71553.0,4
+2023,Circuit de Monaco,SAI,71630.0,5
+2023,Circuit de Monaco,HAM,71725.0,6
+2023,Circuit de Monaco,GAS,71933.0,7
+2023,Circuit de Monaco,RUS,71964.0,8
+2023,Circuit de Monaco,TSU,72082.0,9
+2023,Circuit de Monaco,NOR,72254.0,10
+2023,Circuit de Monaco,PIA,72395.0,11
+2023,Circuit de Monaco,DEV,72428.0,12
+2023,Circuit de Monaco,ALB,72527.0,13
+2023,Circuit de Monaco,STR,72623.0,14
+2023,Circuit de Monaco,BOT,72625.0,15
+2023,Circuit de Monaco,SAR,73113.0,16
+2023,Circuit de Monaco,MAG,73270.0,17
+2023,Circuit de Monaco,HUL,73279.0,18
+2023,Circuit de Monaco,ZHO,73523.0,19
+2023,Circuit de Monaco,PER,73850.0,20
+2023,Circuit de Barcelona-Catalunya,VER,72272.0,1
+2023,Circuit de Barcelona-Catalunya,SAI,72734.0,2
+2023,Circuit de Barcelona-Catalunya,NOR,72792.0,3
+2023,Circuit de Barcelona-Catalunya,GAS,72816.0,4
+2023,Circuit de Barcelona-Catalunya,HAM,72818.0,5
+2023,Circuit de Barcelona-Catalunya,STR,72994.0,6
+2023,Circuit de Barcelona-Catalunya,OCO,73083.0,7
+2023,Circuit de Barcelona-Catalunya,HUL,73229.0,8
+2023,Circuit de Barcelona-Catalunya,ALO,73507.0,11
+2023,Circuit de Barcelona-Catalunya,PIA,73682.0,13
+2023,Circuit de Barcelona-Catalunya,PER,73334.0,9
+2023,Circuit de Barcelona-Catalunya,RUS,73447.0,10
+2023,Circuit de Barcelona-Catalunya,ZHO,73521.0,12
+2023,Circuit de Barcelona-Catalunya,DEV,74083.0,18
+2023,Circuit de Barcelona-Catalunya,TSU,74477.0,19
+2023,Circuit de Barcelona-Catalunya,BOT,73977.0,14
+2023,Circuit de Barcelona-Catalunya,MAG,74042.0,15
+2023,Circuit de Barcelona-Catalunya,ALB,74063.0,16
+2023,Circuit de Barcelona-Catalunya,LEC,74079.0,17
+2023,Circuit de Barcelona-Catalunya,SAR,74699.0,20
+2023,Circuit Gilles Villeneuve,VER,85858.0,12
+2023,Circuit Gilles Villeneuve,HUL,87102.0,13
+2023,Circuit Gilles Villeneuve,ALO,87286.0,14
+2023,Circuit Gilles Villeneuve,HAM,87627.0,15
+2023,Circuit Gilles Villeneuve,RUS,87893.0,16
+2023,Circuit Gilles Villeneuve,OCO,87945.0,17
+2023,Circuit Gilles Villeneuve,NOR,88046.0,18
+2023,Circuit Gilles Villeneuve,SAI,89294.0,19
+2023,Circuit Gilles Villeneuve,PIA,91349.0,20
+2023,Circuit Gilles Villeneuve,ALB,78725.0,1
+2023,Circuit Gilles Villeneuve,LEC,80615.0,2
+2023,Circuit Gilles Villeneuve,PER,80959.0,3
+2023,Circuit Gilles Villeneuve,STR,81484.0,4
+2023,Circuit Gilles Villeneuve,MAG,81678.0,5
+2023,Circuit Gilles Villeneuve,BOT,81821.0,6
+2023,Circuit Gilles Villeneuve,TSU,82746.0,7
+2023,Circuit Gilles Villeneuve,GAS,82886.0,8
+2023,Circuit Gilles Villeneuve,DEV,83137.0,9
+2023,Circuit Gilles Villeneuve,SAR,83337.0,10
+2023,Circuit Gilles Villeneuve,ZHO,83342.0,11
+2023,Red Bull Ring,VER,64391.0,1
+2023,Red Bull Ring,LEC,64438.0,2
+2023,Red Bull Ring,SAI,64581.0,3
+2023,Red Bull Ring,NOR,64658.0,4
+2023,Red Bull Ring,HAM,64819.0,5
+2023,Red Bull Ring,STR,64893.0,6
+2023,Red Bull Ring,ALO,64911.0,7
+2023,Red Bull Ring,HUL,65090.0,8
+2023,Red Bull Ring,GAS,65170.0,9
+2023,Red Bull Ring,ALB,65823.0,16
+2023,Red Bull Ring,RUS,65428.0,10
+2023,Red Bull Ring,OCO,65453.0,11
+2023,Red Bull Ring,PIA,65605.0,12
+2023,Red Bull Ring,BOT,65680.0,13
+2023,Red Bull Ring,PER,126688.0,20
+2023,Red Bull Ring,TSU,65784.0,14
+2023,Red Bull Ring,ZHO,65818.0,15
+2023,Red Bull Ring,SAR,65948.0,17
+2023,Red Bull Ring,MAG,65971.0,18
+2023,Red Bull Ring,DEV,65974.0,19
+2023,Silverstone Circuit,VER,86720.0,1
+2023,Silverstone Circuit,NOR,86961.0,2
+2023,Silverstone Circuit,PIA,87092.0,3
+2023,Silverstone Circuit,LEC,87136.0,4
+2023,Silverstone Circuit,SAI,87148.0,5
+2023,Silverstone Circuit,RUS,87155.0,6
+2023,Silverstone Circuit,HAM,87211.0,7
+2023,Silverstone Circuit,ALB,87530.0,8
+2023,Silverstone Circuit,ALO,87659.0,9
+2023,Silverstone Circuit,GAS,87689.0,10
+2023,Silverstone Circuit,HUL,88896.0,11
+2023,Silverstone Circuit,STR,88935.0,12
+2023,Silverstone Circuit,OCO,88956.0,13
+2023,Silverstone Circuit,SAR,89031.0,14
+2023,Silverstone Circuit,BOT,89798.0,15
+2023,Silverstone Circuit,PER,89968.0,16
+2023,Silverstone Circuit,TSU,90025.0,17
+2023,Silverstone Circuit,ZHO,90123.0,18
+2023,Silverstone Circuit,DEV,90513.0,19
+2023,Silverstone Circuit,MAG,92378.0,20
+2023,Hungaroring,HAM,76609.0,1
+2023,Hungaroring,VER,76612.0,2
+2023,Hungaroring,NOR,76694.0,3
+2023,Hungaroring,PIA,76905.0,4
+2023,Hungaroring,ZHO,76971.0,5
+2023,Hungaroring,LEC,76992.0,6
+2023,Hungaroring,BOT,77034.0,7
+2023,Hungaroring,ALO,77035.0,8
+2023,Hungaroring,PER,77045.0,9
+2023,Hungaroring,HUL,77186.0,10
+2023,Hungaroring,SAI,77703.0,11
+2023,Hungaroring,OCO,77841.0,12
+2023,Hungaroring,RIC,78002.0,13
+2023,Hungaroring,STR,78144.0,14
+2023,Hungaroring,GAS,78217.0,15
+2023,Hungaroring,ALB,78917.0,16
+2023,Hungaroring,TSU,78919.0,17
+2023,Hungaroring,RUS,79027.0,18
+2023,Hungaroring,MAG,79206.0,19
+2023,Hungaroring,SAR,79248.0,20
+2023,Circuit de Spa-Francorchamps,VER,106168.0,1
+2023,Circuit de Spa-Francorchamps,LEC,106988.0,2
+2023,Circuit de Spa-Francorchamps,PER,107045.0,3
+2023,Circuit de Spa-Francorchamps,HAM,107087.0,4
+2023,Circuit de Spa-Francorchamps,SAI,107152.0,5
+2023,Circuit de Spa-Francorchamps,PIA,107365.0,6
+2023,Circuit de Spa-Francorchamps,NOR,107669.0,7
+2023,Circuit de Spa-Francorchamps,RUS,107805.0,8
+2023,Circuit de Spa-Francorchamps,ALO,107843.0,9
+2023,Circuit de Spa-Francorchamps,STR,108841.0,10
+2023,Circuit de Spa-Francorchamps,TSU,113148.0,11
+2023,Circuit de Spa-Francorchamps,GAS,113671.0,12
+2023,Circuit de Spa-Francorchamps,MAG,114160.0,13
+2023,Circuit de Spa-Francorchamps,BOT,114694.0,14
+2023,Circuit de Spa-Francorchamps,OCO,116372.0,15
+2023,Circuit de Spa-Francorchamps,ALB,120314.0,16
+2023,Circuit de Spa-Francorchamps,ZHO,120832.0,17
+2023,Circuit de Spa-Francorchamps,SAR,121535.0,18
+2023,Circuit de Spa-Francorchamps,RIC,122159.0,19
+2023,Circuit de Spa-Francorchamps,HUL,123166.0,20
+2023,Circuit Park Zandvoort,VER,70567.0,1
+2023,Circuit Park Zandvoort,NOR,71104.0,2
+2023,Circuit Park Zandvoort,RUS,71294.0,3
+2023,Circuit Park Zandvoort,ALB,71419.0,4
+2023,Circuit Park Zandvoort,ALO,71506.0,5
+2023,Circuit Park Zandvoort,SAI,71754.0,6
+2023,Circuit Park Zandvoort,PER,71880.0,7
+2023,Circuit Park Zandvoort,PIA,71938.0,8
+2023,Circuit Park Zandvoort,LEC,72665.0,9
+2023,Circuit Park Zandvoort,SAR,76748.0,10
+2023,Circuit Park Zandvoort,STR,80121.0,11
+2023,Circuit Park Zandvoort,GAS,80128.0,12
+2023,Circuit Park Zandvoort,HAM,80151.0,13
+2023,Circuit Park Zandvoort,TSU,80230.0,14
+2023,Circuit Park Zandvoort,HUL,80250.0,15
+2023,Circuit Park Zandvoort,ZHO,82067.0,16
+2023,Circuit Park Zandvoort,OCO,82110.0,17
+2023,Circuit Park Zandvoort,MAG,82192.0,18
+2023,Circuit Park Zandvoort,BOT,82260.0,19
+2023,Circuit Park Zandvoort,LAW,83420.0,20
+2023,Autodromo Nazionale di Monza,SAI,80294.0,1
+2023,Autodromo Nazionale di Monza,VER,80307.0,2
+2023,Autodromo Nazionale di Monza,LEC,80361.0,3
+2023,Autodromo Nazionale di Monza,RUS,80671.0,4
+2023,Autodromo Nazionale di Monza,PER,80688.0,5
+2023,Autodromo Nazionale di Monza,ALB,80760.0,6
+2023,Autodromo Nazionale di Monza,PIA,80785.0,7
+2023,Autodromo Nazionale di Monza,HAM,80820.0,8
+2023,Autodromo Nazionale di Monza,NOR,80979.0,9
+2023,Autodromo Nazionale di Monza,ALO,81417.0,10
+2023,Autodromo Nazionale di Monza,TSU,81594.0,11
+2023,Autodromo Nazionale di Monza,LAW,81758.0,12
+2023,Autodromo Nazionale di Monza,HUL,81776.0,13
+2023,Autodromo Nazionale di Monza,BOT,81940.0,14
+2023,Autodromo Nazionale di Monza,SAR,81944.0,15
+2023,Autodromo Nazionale di Monza,ZHO,82390.0,16
+2023,Autodromo Nazionale di Monza,GAS,82545.0,17
+2023,Autodromo Nazionale di Monza,OCO,82548.0,18
+2023,Autodromo Nazionale di Monza,MAG,82592.0,19
+2023,Autodromo Nazionale di Monza,STR,82860.0,20
+2023,Marina Bay Street Circuit,SAI,90984.0,1
+2023,Marina Bay Street Circuit,RUS,91056.0,2
+2023,Marina Bay Street Circuit,LEC,91063.0,3
+2023,Marina Bay Street Circuit,NOR,91270.0,4
+2023,Marina Bay Street Circuit,HAM,91485.0,5
+2023,Marina Bay Street Circuit,MAG,91575.0,6
+2023,Marina Bay Street Circuit,ALO,91615.0,7
+2023,Marina Bay Street Circuit,OCO,91673.0,8
+2023,Marina Bay Street Circuit,HUL,91808.0,9
+2023,Marina Bay Street Circuit,LAW,92268.0,12
+2023,Marina Bay Street Circuit,VER,92173.0,11
+2023,Marina Bay Street Circuit,GAS,92274.0,13
+2023,Marina Bay Street Circuit,PER,92310.0,14
+2023,Marina Bay Street Circuit,ALB,93719.0,20
+2023,Marina Bay Street Circuit,TSU,91991.0,10
+2023,Marina Bay Street Circuit,BOT,92809.0,15
+2023,Marina Bay Street Circuit,PIA,92902.0,16
+2023,Marina Bay Street Circuit,SAR,93252.0,17
+2023,Marina Bay Street Circuit,ZHO,93258.0,18
+2023,Marina Bay Street Circuit,STR,93397.0,19
+2023,Suzuka Circuit,VER,88877.0,1
+2023,Suzuka Circuit,PIA,89458.0,2
+2023,Suzuka Circuit,NOR,89493.0,3
+2023,Suzuka Circuit,LEC,89542.0,4
+2023,Suzuka Circuit,PER,89650.0,5
+2023,Suzuka Circuit,SAI,89850.0,6
+2023,Suzuka Circuit,HAM,89908.0,7
+2023,Suzuka Circuit,RUS,90219.0,8
+2023,Suzuka Circuit,TSU,90303.0,9
+2023,Suzuka Circuit,ALO,90560.0,13
+2023,Suzuka Circuit,LAW,90508.0,10
+2023,Suzuka Circuit,GAS,90509.0,11
+2023,Suzuka Circuit,ALB,90537.0,12
+2023,Suzuka Circuit,OCO,90586.0,14
+2023,Suzuka Circuit,MAG,90665.0,15
+2023,Suzuka Circuit,BOT,91049.0,16
+2023,Suzuka Circuit,STR,91181.0,17
+2023,Suzuka Circuit,HUL,91299.0,18
+2023,Suzuka Circuit,ZHO,91398.0,19
+2023,Suzuka Circuit,SAR,inf,20
+2023,Losail International Circuit,VER,83778.0,1
+2023,Losail International Circuit,RUS,84219.0,2
+2023,Losail International Circuit,HAM,84305.0,3
+2023,Losail International Circuit,ALO,84369.0,4
+2023,Losail International Circuit,LEC,84424.0,5
+2023,Losail International Circuit,PIA,84540.0,6
+2023,Losail International Circuit,GAS,84553.0,7
+2023,Losail International Circuit,OCO,84763.0,9
+2023,Losail International Circuit,BOT,85058.0,10
+2023,Losail International Circuit,NOR,84685.0,8
+2023,Losail International Circuit,TSU,85301.0,11
+2023,Losail International Circuit,SAI,85328.0,12
+2023,Losail International Circuit,PER,85462.0,13
+2023,Losail International Circuit,ALB,85707.0,14
+2023,Losail International Circuit,HUL,85783.0,15
+2023,Losail International Circuit,SAR,86210.0,16
+2023,Losail International Circuit,STR,86345.0,17
+2023,Losail International Circuit,LAW,86635.0,18
+2023,Losail International Circuit,MAG,87046.0,19
+2023,Losail International Circuit,ZHO,87432.0,20
+2023,Circuit of the Americas,LEC,94723.0,1
+2023,Circuit of the Americas,NOR,94853.0,2
+2023,Circuit of the Americas,HAM,94862.0,3
+2023,Circuit of the Americas,SAI,94945.0,4
+2023,Circuit of the Americas,RUS,95079.0,5
+2023,Circuit of the Americas,VER,95081.0,6
+2023,Circuit of the Americas,GAS,95089.0,7
+2023,Circuit of the Americas,OCO,95154.0,8
+2023,Circuit of the Americas,PER,95173.0,9
+2023,Circuit of the Americas,PIA,95467.0,10
+2023,Circuit of the Americas,TSU,95697.0,11
+2023,Circuit of the Americas,ZHO,95698.0,12
+2023,Circuit of the Americas,BOT,95858.0,13
+2023,Circuit of the Americas,MAG,95880.0,14
+2023,Circuit of the Americas,RIC,95974.0,15
+2023,Circuit of the Americas,HUL,96235.0,16
+2023,Circuit of the Americas,ALO,96268.0,17
+2023,Circuit of the Americas,ALB,96315.0,18
+2023,Circuit of the Americas,STR,96589.0,19
+2023,Circuit of the Americas,SAR,96827.0,20
+2023,Autódromo Hermanos Rodríguez,LEC,77166.0,1
+2023,Autódromo Hermanos Rodríguez,SAI,77233.0,2
+2023,Autódromo Hermanos Rodríguez,VER,77263.0,3
+2023,Autódromo Hermanos Rodríguez,RIC,77382.0,4
+2023,Autódromo Hermanos Rodríguez,PER,77423.0,5
+2023,Autódromo Hermanos Rodríguez,HAM,77454.0,6
+2023,Autódromo Hermanos Rodríguez,PIA,77623.0,7
+2023,Autódromo Hermanos Rodríguez,RUS,77674.0,8
+2023,Autódromo Hermanos Rodríguez,BOT,78032.0,9
+2023,Autódromo Hermanos Rodríguez,ZHO,78050.0,10
+2023,Autódromo Hermanos Rodríguez,GAS,78521.0,11
+2023,Autódromo Hermanos Rodríguez,HUL,78524.0,12
+2023,Autódromo Hermanos Rodríguez,ALO,78738.0,13
+2023,Autódromo Hermanos Rodríguez,ALB,79147.0,16
+2023,Autódromo Hermanos Rodríguez,TSU,78890.0,14
+2023,Autódromo Hermanos Rodríguez,OCO,79080.0,15
+2023,Autódromo Hermanos Rodríguez,MAG,79163.0,17
+2023,Autódromo Hermanos Rodríguez,STR,79227.0,18
+2023,Autódromo Hermanos Rodríguez,NOR,81554.0,19
+2023,Autódromo Hermanos Rodríguez,SAR,inf,20
+2023,Autódromo José Carlos Pace,VER,70727.0,6
+2023,Autódromo José Carlos Pace,LEC,71021.0,11
+2023,Autódromo José Carlos Pace,STR,71344.0,14
+2023,Autódromo José Carlos Pace,ALO,71387.0,15
+2023,Autódromo José Carlos Pace,HAM,71469.0,16
+2023,Autódromo José Carlos Pace,RUS,71590.0,17
+2023,Autódromo José Carlos Pace,NOR,71987.0,18
+2023,Autódromo José Carlos Pace,SAI,71989.0,19
+2023,Autódromo José Carlos Pace,PER,72321.0,20
+2023,Autódromo José Carlos Pace,PIA,70330.0,1
+2023,Autódromo José Carlos Pace,HUL,70547.0,2
+2023,Autódromo José Carlos Pace,OCO,70562.0,3
+2023,Autódromo José Carlos Pace,GAS,70567.0,4
+2023,Autódromo José Carlos Pace,MAG,70723.0,5
+2023,Autódromo José Carlos Pace,ALB,70840.0,8
+2023,Autódromo José Carlos Pace,TSU,70837.0,7
+2023,Autódromo José Carlos Pace,RIC,70843.0,9
+2023,Autódromo José Carlos Pace,BOT,70955.0,10
+2023,Autódromo José Carlos Pace,SAR,71035.0,12
+2023,Autódromo José Carlos Pace,ZHO,71275.0,13
+2023,Las Vegas Strip Street Circuit,LEC,92726.0,1
+2023,Las Vegas Strip Street Circuit,SAI,92770.0,2
+2023,Las Vegas Strip Street Circuit,VER,93104.0,3
+2023,Las Vegas Strip Street Circuit,RUS,93112.0,4
+2023,Las Vegas Strip Street Circuit,GAS,93239.0,5
+2023,Las Vegas Strip Street Circuit,ALB,93323.0,6
+2023,Las Vegas Strip Street Circuit,SAR,93513.0,7
+2023,Las Vegas Strip Street Circuit,BOT,93525.0,8
+2023,Las Vegas Strip Street Circuit,MAG,93537.0,9
+2023,Las Vegas Strip Street Circuit,ALO,93555.0,10
+2023,Las Vegas Strip Street Circuit,HAM,93837.0,11
+2023,Las Vegas Strip Street Circuit,PER,93855.0,12
+2023,Las Vegas Strip Street Circuit,HUL,93979.0,13
+2023,Las Vegas Strip Street Circuit,STR,94199.0,14
+2023,Las Vegas Strip Street Circuit,RIC,94308.0,15
+2023,Las Vegas Strip Street Circuit,NOR,94703.0,16
+2023,Las Vegas Strip Street Circuit,OCO,94834.0,17
+2023,Las Vegas Strip Street Circuit,ZHO,94849.0,18
+2023,Las Vegas Strip Street Circuit,PIA,94850.0,19
+2023,Las Vegas Strip Street Circuit,TSU,96447.0,20
+2023,Yas Marina Circuit,VER,83445.0,1
+2023,Yas Marina Circuit,LEC,83584.0,2
+2023,Yas Marina Circuit,PIA,83782.0,3
+2023,Yas Marina Circuit,RUS,83788.0,4
+2023,Yas Marina Circuit,NOR,83816.0,5
+2023,Yas Marina Circuit,TSU,83968.0,6
+2023,Yas Marina Circuit,ALO,84084.0,7
+2023,Yas Marina Circuit,HUL,84108.0,8
+2023,Yas Marina Circuit,PER,84171.0,9
+2023,Yas Marina Circuit,GAS,84548.0,10
+2023,Yas Marina Circuit,HAM,inf,11
+2023,Yas Marina Circuit,OCO,inf,11
+2023,Yas Marina Circuit,STR,inf,11
+2023,Yas Marina Circuit,ALB,inf,11
+2023,Yas Marina Circuit,RIC,inf,11
+2023,Yas Marina Circuit,SAI,inf,11
+2023,Yas Marina Circuit,MAG,inf,11
+2023,Yas Marina Circuit,BOT,inf,11
+2023,Yas Marina Circuit,ZHO,inf,11
+2023,Yas Marina Circuit,SAR,inf,11
+2024,Bahrain International Circuit,VER,89179.0,1
+2024,Bahrain International Circuit,LEC,89407.0,2
+2024,Bahrain International Circuit,RUS,89485.0,3
+2024,Bahrain International Circuit,SAI,89507.0,4
+2024,Bahrain International Circuit,PER,89537.0,5
+2024,Bahrain International Circuit,ALO,89542.0,6
+2024,Bahrain International Circuit,NOR,89614.0,7
+2024,Bahrain International Circuit,PIA,89683.0,8
+2024,Bahrain International Circuit,HAM,89710.0,9
+2024,Bahrain International Circuit,HUL,90502.0,14
+2024,Bahrain International Circuit,TSU,90129.0,10
+2024,Bahrain International Circuit,STR,90200.0,11
+2024,Bahrain International Circuit,ALB,90221.0,12
+2024,Bahrain International Circuit,RIC,90278.0,13
+2024,Bahrain International Circuit,MAG,90529.0,15
+2024,Bahrain International Circuit,BOT,90756.0,16
+2024,Bahrain International Circuit,ZHO,90757.0,17
+2024,Bahrain International Circuit,SAR,90770.0,18
+2024,Bahrain International Circuit,OCO,90793.0,19
+2024,Bahrain International Circuit,GAS,90948.0,20
+2024,Jeddah Corniche Circuit,VER,87472.0,1
+2024,Jeddah Corniche Circuit,LEC,87791.0,2
+2024,Jeddah Corniche Circuit,PER,87807.0,3
+2024,Jeddah Corniche Circuit,ALO,87846.0,4
+2024,Jeddah Corniche Circuit,PIA,88089.0,5
+2024,Jeddah Corniche Circuit,NOR,88132.0,6
+2024,Jeddah Corniche Circuit,RUS,88316.0,7
+2024,Jeddah Corniche Circuit,HAM,88460.0,8
+2024,Jeddah Corniche Circuit,TSU,88547.0,9
+2024,Jeddah Corniche Circuit,STR,88572.0,10
+2024,Jeddah Corniche Circuit,BEA,inf,11
+2024,Jeddah Corniche Circuit,ALB,inf,11
+2024,Jeddah Corniche Circuit,MAG,inf,11
+2024,Jeddah Corniche Circuit,RIC,inf,11
+2024,Jeddah Corniche Circuit,HUL,inf,11
+2024,Jeddah Corniche Circuit,BOT,inf,11
+2024,Jeddah Corniche Circuit,OCO,inf,11
+2024,Jeddah Corniche Circuit,GAS,inf,11
+2024,Jeddah Corniche Circuit,SAR,inf,11
+2024,Jeddah Corniche Circuit,ZHO,inf,11
+2024,Albert Park Grand Prix Circuit,VER,75915.0,1
+2024,Albert Park Grand Prix Circuit,SAI,76185.0,2
+2024,Albert Park Grand Prix Circuit,PER,76274.0,3
+2024,Albert Park Grand Prix Circuit,NOR,76315.0,4
+2024,Albert Park Grand Prix Circuit,LEC,76435.0,5
+2024,Albert Park Grand Prix Circuit,PIA,76572.0,6
+2024,Albert Park Grand Prix Circuit,RUS,76724.0,7
+2024,Albert Park Grand Prix Circuit,TSU,76788.0,8
+2024,Albert Park Grand Prix Circuit,STR,77072.0,10
+2024,Albert Park Grand Prix Circuit,ALO,77552.0,14
+2024,Albert Park Grand Prix Circuit,HAM,76960.0,9
+2024,Albert Park Grand Prix Circuit,ALB,77167.0,11
+2024,Albert Park Grand Prix Circuit,BOT,77340.0,12
+2024,Albert Park Grand Prix Circuit,MAG,77427.0,13
+2024,Albert Park Grand Prix Circuit,OCO,77697.0,15
+2024,Albert Park Grand Prix Circuit,HUL,77976.0,16
+2024,Albert Park Grand Prix Circuit,GAS,77982.0,17
+2024,Albert Park Grand Prix Circuit,RIC,78085.0,18
+2024,Albert Park Grand Prix Circuit,ZHO,78188.0,19
+2024,Suzuka Circuit,VER,88197.0,1
+2024,Suzuka Circuit,PER,88263.0,2
+2024,Suzuka Circuit,NOR,88489.0,3
+2024,Suzuka Circuit,SAI,88682.0,4
+2024,Suzuka Circuit,ALO,88686.0,5
+2024,Suzuka Circuit,PIA,88760.0,6
+2024,Suzuka Circuit,HAM,88766.0,7
+2024,Suzuka Circuit,LEC,88786.0,8
+2024,Suzuka Circuit,RUS,89008.0,9
+2024,Suzuka Circuit,TSU,89413.0,10
+2024,Suzuka Circuit,RIC,89472.0,11
+2024,Suzuka Circuit,HUL,89494.0,12
+2024,Suzuka Circuit,BOT,89593.0,13
+2024,Suzuka Circuit,ALB,89714.0,14
+2024,Suzuka Circuit,OCO,89816.0,15
+2024,Suzuka Circuit,STR,90024.0,16
+2024,Suzuka Circuit,GAS,90119.0,17
+2024,Suzuka Circuit,MAG,90131.0,18
+2024,Suzuka Circuit,SAR,90139.0,19
+2024,Suzuka Circuit,ZHO,90143.0,20
+2024,Shanghai International Circuit,VER,93660.0,1
+2024,Shanghai International Circuit,PER,93982.0,2
+2024,Shanghai International Circuit,ALO,94148.0,3
+2024,Shanghai International Circuit,NOR,94165.0,4
+2024,Shanghai International Circuit,PIA,94273.0,5
+2024,Shanghai International Circuit,LEC,94289.0,6
+2024,Shanghai International Circuit,SAI,94297.0,7
+2024,Shanghai International Circuit,RUS,94433.0,8
+2024,Shanghai International Circuit,HUL,94604.0,9
+2024,Shanghai International Circuit,BOT,94665.0,10
+2024,Shanghai International Circuit,STR,94838.0,11
+2024,Shanghai International Circuit,RIC,94934.0,12
+2024,Shanghai International Circuit,OCO,95223.0,13
+2024,Shanghai International Circuit,ALB,95241.0,14
+2024,Shanghai International Circuit,GAS,95463.0,15
+2024,Shanghai International Circuit,ZHO,95505.0,16
+2024,Shanghai International Circuit,MAG,95516.0,17
+2024,Shanghai International Circuit,HAM,95573.0,18
+2024,Shanghai International Circuit,TSU,95746.0,19
+2024,Shanghai International Circuit,SAR,96358.0,20
+2024,Miami International Autodrome,VER,87241.0,1
+2024,Miami International Autodrome,LEC,87382.0,2
+2024,Miami International Autodrome,SAI,87455.0,3
+2024,Miami International Autodrome,PER,87460.0,4
+2024,Miami International Autodrome,NOR,87594.0,5
+2024,Miami International Autodrome,PIA,87675.0,6
+2024,Miami International Autodrome,RUS,88067.0,7
+2024,Miami International Autodrome,HAM,88107.0,8
+2024,Miami International Autodrome,HUL,88146.0,9
+2024,Miami International Autodrome,TSU,88192.0,10
+2024,Miami International Autodrome,STR,88222.0,11
+2024,Miami International Autodrome,GAS,88324.0,12
+2024,Miami International Autodrome,OCO,88371.0,13
+2024,Miami International Autodrome,ALB,88413.0,14
+2024,Miami International Autodrome,ALO,88427.0,15
+2024,Miami International Autodrome,BOT,88463.0,16
+2024,Miami International Autodrome,SAR,88487.0,17
+2024,Miami International Autodrome,RIC,88617.0,18
+2024,Miami International Autodrome,MAG,88619.0,19
+2024,Miami International Autodrome,ZHO,88824.0,20
+2024,Autodromo Enzo e Dino Ferrari,VER,74746.0,1
+2024,Autodromo Enzo e Dino Ferrari,PIA,74820.0,2
+2024,Autodromo Enzo e Dino Ferrari,NOR,74837.0,3
+2024,Autodromo Enzo e Dino Ferrari,LEC,74970.0,4
+2024,Autodromo Enzo e Dino Ferrari,SAI,75233.0,5
+2024,Autodromo Enzo e Dino Ferrari,RUS,75234.0,6
+2024,Autodromo Enzo e Dino Ferrari,TSU,75465.0,7
+2024,Autodromo Enzo e Dino Ferrari,HAM,75504.0,8
+2024,Autodromo Enzo e Dino Ferrari,RIC,75674.0,9
+2024,Autodromo Enzo e Dino Ferrari,HUL,75980.0,10
+2024,Autodromo Enzo e Dino Ferrari,PER,inf,11
+2024,Autodromo Enzo e Dino Ferrari,OCO,inf,11
+2024,Autodromo Enzo e Dino Ferrari,STR,inf,11
+2024,Autodromo Enzo e Dino Ferrari,ALB,inf,11
+2024,Autodromo Enzo e Dino Ferrari,GAS,inf,11
+2024,Autodromo Enzo e Dino Ferrari,BOT,inf,11
+2024,Autodromo Enzo e Dino Ferrari,ZHO,inf,11
+2024,Autodromo Enzo e Dino Ferrari,MAG,inf,11
+2024,Autodromo Enzo e Dino Ferrari,ALO,inf,11
+2024,Autodromo Enzo e Dino Ferrari,SAR,inf,11
+2024,Circuit de Monaco,LEC,70270.0,1
+2024,Circuit de Monaco,PIA,70424.0,2
+2024,Circuit de Monaco,SAI,70518.0,3
+2024,Circuit de Monaco,NOR,70542.0,4
+2024,Circuit de Monaco,RUS,70543.0,5
+2024,Circuit de Monaco,VER,70567.0,6
+2024,Circuit de Monaco,HAM,70621.0,7
+2024,Circuit de Monaco,TSU,70858.0,8
+2024,Circuit de Monaco,ALB,70948.0,9
+2024,Circuit de Monaco,GAS,71311.0,11
+2024,Circuit de Monaco,OCO,71285.0,10
+2024,Circuit de Monaco,HUL,71440.0,12
+2024,Circuit de Monaco,RIC,71482.0,13
+2024,Circuit de Monaco,STR,71563.0,14
+2024,Circuit de Monaco,MAG,71725.0,15
+2024,Circuit de Monaco,ALO,72019.0,16
+2024,Circuit de Monaco,SAR,72020.0,17
+2024,Circuit de Monaco,PER,72060.0,18
+2024,Circuit de Monaco,BOT,72512.0,19
+2024,Circuit de Monaco,ZHO,73028.0,20
+2024,Circuit Gilles Villeneuve,RUS,72000.0,1
+2024,Circuit Gilles Villeneuve,VER,72000.0,1
+2024,Circuit Gilles Villeneuve,NOR,72021.0,3
+2024,Circuit Gilles Villeneuve,PIA,72103.0,4
+2024,Circuit Gilles Villeneuve,RIC,72178.0,5
+2024,Circuit Gilles Villeneuve,ALO,72228.0,6
+2024,Circuit Gilles Villeneuve,HAM,72280.0,7
+2024,Circuit Gilles Villeneuve,TSU,72414.0,8
+2024,Circuit Gilles Villeneuve,STR,72701.0,10
+2024,Circuit Gilles Villeneuve,ALB,72796.0,13
+2024,Circuit Gilles Villeneuve,LEC,72691.0,9
+2024,Circuit Gilles Villeneuve,SAI,72728.0,11
+2024,Circuit Gilles Villeneuve,SAR,72736.0,12
+2024,Circuit Gilles Villeneuve,MAG,72916.0,14
+2024,Circuit Gilles Villeneuve,GAS,72940.0,15
+2024,Circuit Gilles Villeneuve,PER,73326.0,16
+2024,Circuit Gilles Villeneuve,BOT,73366.0,17
+2024,Circuit Gilles Villeneuve,OCO,73435.0,18
+2024,Circuit Gilles Villeneuve,HUL,73978.0,19
+2024,Circuit Gilles Villeneuve,ZHO,74292.0,20
+2024,Circuit de Barcelona-Catalunya,NOR,71383.0,1
+2024,Circuit de Barcelona-Catalunya,VER,71403.0,2
+2024,Circuit de Barcelona-Catalunya,HAM,71701.0,3
+2024,Circuit de Barcelona-Catalunya,RUS,71703.0,4
+2024,Circuit de Barcelona-Catalunya,LEC,71731.0,5
+2024,Circuit de Barcelona-Catalunya,SAI,71736.0,6
+2024,Circuit de Barcelona-Catalunya,GAS,71857.0,7
+2024,Circuit de Barcelona-Catalunya,PER,72061.0,9
+2024,Circuit de Barcelona-Catalunya,OCO,72125.0,10
+2024,Circuit de Barcelona-Catalunya,PIA,72011.0,8
+2024,Circuit de Barcelona-Catalunya,ALO,72128.0,11
+2024,Circuit de Barcelona-Catalunya,BOT,72227.0,12
+2024,Circuit de Barcelona-Catalunya,HUL,72310.0,13
+2024,Circuit de Barcelona-Catalunya,STR,72372.0,14
+2024,Circuit de Barcelona-Catalunya,ZHO,72738.0,15
+2024,Circuit de Barcelona-Catalunya,MAG,72937.0,16
+2024,Circuit de Barcelona-Catalunya,TSU,72985.0,17
+2024,Circuit de Barcelona-Catalunya,RIC,73075.0,18
+2024,Circuit de Barcelona-Catalunya,ALB,73153.0,19
+2024,Circuit de Barcelona-Catalunya,SAR,73509.0,20
+2024,Red Bull Ring,VER,64313.0,1
+2024,Red Bull Ring,NOR,64718.0,2
+2024,Red Bull Ring,RUS,64840.0,3
+2024,Red Bull Ring,SAI,64851.0,4
+2024,Red Bull Ring,HAM,64903.0,5
+2024,Red Bull Ring,LEC,65044.0,6
+2024,Red Bull Ring,PIA,65048.0,7
+2024,Red Bull Ring,PER,65202.0,8
+2024,Red Bull Ring,HUL,65385.0,12
+2024,Red Bull Ring,OCO,65883.0,19
+2024,Red Bull Ring,RIC,65289.0,9
+2024,Red Bull Ring,MAG,65346.0,10
+2024,Red Bull Ring,GAS,65358.0,11
+2024,Red Bull Ring,TSU,65412.0,13
+2024,Red Bull Ring,ALO,65639.0,14
+2024,Red Bull Ring,ALB,65736.0,15
+2024,Red Bull Ring,STR,65819.0,16
+2024,Red Bull Ring,BOT,65847.0,17
+2024,Red Bull Ring,SAR,65856.0,18
+2024,Red Bull Ring,ZHO,66061.0,20
+2024,Silverstone Circuit,RUS,85819.0,1
+2024,Silverstone Circuit,HAM,85990.0,2
+2024,Silverstone Circuit,NOR,86030.0,3
+2024,Silverstone Circuit,VER,86203.0,4
+2024,Silverstone Circuit,PIA,86237.0,5
+2024,Silverstone Circuit,HUL,86338.0,6
+2024,Silverstone Circuit,SAI,86509.0,7
+2024,Silverstone Circuit,STR,86585.0,8
+2024,Silverstone Circuit,ALB,86640.0,9
+2024,Silverstone Circuit,ALO,86917.0,10
+2024,Silverstone Circuit,LEC,87097.0,11
+2024,Silverstone Circuit,SAR,87175.0,12
+2024,Silverstone Circuit,TSU,87269.0,13
+2024,Silverstone Circuit,ZHO,87867.0,14
+2024,Silverstone Circuit,RIC,87949.0,15
+2024,Silverstone Circuit,BOT,92431.0,16
+2024,Silverstone Circuit,MAG,92905.0,17
+2024,Silverstone Circuit,OCO,94557.0,18
+2024,Silverstone Circuit,PER,98348.0,19
+2024,Silverstone Circuit,GAS,99804.0,20
